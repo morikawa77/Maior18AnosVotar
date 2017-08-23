@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Maior18AnosVotar/bin/Debug/Maior18AnosVotar.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Maior18AnosVotar/bin/Debug/Maior18AnosVotar.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Maior18AnosVotar/obj/x86/Debug/Maior18AnosVotar.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Maior18AnosVotar/obj/x86/Debug/Maior18AnosVotar.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Maior18AnosVotar/obj/x86/Debug/Maior18AnosVotar.pdb
